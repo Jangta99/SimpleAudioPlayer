@@ -5,6 +5,8 @@
 This project was created in Android Studio, recreating an mp3 player. It plays songs in the RAW folder.
 The features include rewind, fast forwarding, pausing, and playing.
 
+Included are the main files from the SRC folder, the gitignore, the build.gradle, and proguard-rules files.
+
 I used Java for this project and added some features from the original tutorial.
 
 Original tutorial:
